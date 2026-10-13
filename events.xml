@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--GR's alternate timeline for BabyTimeMapper-GR: five events from my own life.-->
+<?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
+<events>
+  <track type="1" name="Growing Up">
+    <event>
+      <title>Born in Pottstown</title>
+      <date type="start">
+        <year>2005</year>
+        <era>AD</era>
+      </date>
+      <description>I was born in Pottstown, Pennsylvania.</description>
+      <lat>40.2454</lat>
+      <lon>-75.6496</lon>
+    </event>
+    <event>
+      <title>Started at Westmont</title>
+      <date type="start">
+        <year>2017</year>
+        <month>09</month>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>2023</year>
+        <month>06</month>
+        <era>AD</era>
+      </date>
+      <description>I started 7th grade at Westmont in Pottstown, the school I would go on to graduate from.</description>
+      <lat>40.2630</lat>
+      <lon>-75.6250</lon>
+    </event>
+    <event>
+      <title>Moved to a New House</title>
+      <date type="start">
+        <year>2019</year>
+        <month>08</month>
+        <era>AD</era>
+      </date>
+      <description>At the start of high school, my family moved into the house where I still live.</description>
+      <lat>40.2300</lat>
+      <lon>-75.6750</lon>
+    </event>
+  </track>
+  <track type="2" name="College">
+    <event>
+      <title>Started at Penn State Behrend</title>
+      <date type="start">
+        <year>2023</year>
+        <month>08</month>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>2027</year>
+        <month>05</month>
+        <era>AD</era>
+      </date>
+      <description>I began college at Penn State Behrend in Erie, Pennsylvania.</description>
+      <lat>42.1197</lat>
+      <lon>-79.9834</lon>
+    </event>
+  </track>
+  <track type="3" name="Future">
+    <event>
+      <title>College Graduation</title>
+      <date type="start">
+        <year>2027</year>
+        <month>05</month>
+        <era>AD</era>
+      </date>
+      <description>I graduate from Penn State Behrend next semester!</description>
+      <lat>42.1220</lat>
+      <lon>-79.9800</lon>
+    </event>
+  </track>
+</events>
